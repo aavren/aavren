@@ -1,0 +1,220 @@
+{
+ "key": "680d88f7",
+ "stars": 5,
+ "contributions": 290,
+ "repos": 8,
+ "followers": 4,
+ "languages": [
+  [
+   "Go",
+   119253
+  ],
+  [
+   "Rust",
+   45347
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 26,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "SilenLinux",
+   "url": "https://github.com/SilenLinux/SilenLinux",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "gotui",
+   "url": "https://github.com/aavren/gotui",
+   "text": "A Go TUI framework with the customizability of Bubble Tea and the simplicity of Huh",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "vcc",
+   "url": "https://github.com/aavren/vcc",
+   "text": "A C compiler in V.",
+   "fork": true,
+   "stars": 1,
+   "language": "V",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/aavren/register",
+   "text": "Claim a free OpenRepos subdomain for your open source project",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "silenwm",
+   "url": "https://github.com/aavren/silenwm",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "gotui",
+   "url": "https://github.com/aavren/gotui",
+   "text": "A Go TUI framework with the customizability of Bubble Tea and the simplicity of Huh",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "spk",
+   "url": "https://github.com/aavren/spk",
+   "text": "spk - Silen Linux package manager (spark), with release binaries",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Cgtlpa",
+   "url": "https://github.com/aavren/Cgtlpa",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "eXoditeLinux",
+   "url": "https://github.com/aavren/eXoditeLinux",
+   "text": "my own linux installer",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "aavren",
+   "url": "https://github.com/aavren/aavren",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
