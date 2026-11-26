@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "login": "aavren",
+  "seed": "#10050A",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Adrian — Avren",
+    "subtitle": "I like Linux and TUI apps",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "brand:linux",
+        "label": "Linux - Gentoo "
+      },
+      {
+        "icon": "brand:rust",
+        "label": "Rust - Tui and Gui apps"
+      },
+      {
+        "icon": "brand:go",
+        "label": "Tui and Games"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "avrenn - on discord"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and Designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly Backend"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:neovim",
+            "label": "Neovim"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "gotui",
+      "spk"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:linux",
+        "label": "Silen Linux",
+        "url": "github.com/SilenLinux",
+        "style": "tonal"
+      },
+      {
+        "icon": "link",
+        "label": "GoTui",
+        "url": "https://github.com/aavren/gotui",
+        "style": "tonal"
+      }
+    ]
+  }
+}
