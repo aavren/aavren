@@ -8,7 +8,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aavren&color=7aa2f7&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aavren&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
