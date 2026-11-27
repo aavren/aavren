@@ -7,7 +7,7 @@
 
 ### Stats
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7aa2f7&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aavren&color=7aa2f7&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
 <p align="left">
